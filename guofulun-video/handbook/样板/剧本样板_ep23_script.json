@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "ep": 23,
+    "chapter": "第三篇 · 第1章 财富的自然进步",
+    "title": "城里人和乡下人，到底谁养活谁",
+    "folder": "EP23_第三篇第1章_谁养活谁"
+  },
+  "music": "baroque",
+  "cold": true,
+  "tts": {
+    "engine": "volc",
+    "voice": "zh_male_m191_uranus_bigtts",
+    "speech_rate": 24,
+    "context": "你是一个知识类短视频博主，像跟朋友聊天一样，亲切自然、有感染力地讲故事，句子之间有停顿",
+    "edge_voice": "zh-CN-YunxiNeural",
+    "edge_rate": "+15%",
+    "cast": {
+      "小满": {
+        "voice": "zh_male_shaonianzixin_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里好奇的小男孩小满，说话直，第一反应很快，句子很短"
+      },
+      "小雪": {
+        "voice": "zh_female_tianmeitaozi_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里聪明的小女孩小雪，声音甜甜的，爱追问为什么，语气轻快，句子很短"
+      },
+      "农夫": {
+        "voice": "zh_male_dayi_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里两百多年前种地的农夫，五十岁上下，嗓门大、实在、有点不服气，句子很短"
+      },
+      "阿禾": {
+        "voice": "zh_male_taocheng_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里镇上开裁缝铺的阿禾，三十岁上下，手艺人，爱较真，说话利落，句子很短"
+      }
+    }
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        "城里人和乡下人，谁养活谁？",
+        "农夫：全城吃的粮，都是我种的。",
+        "阿禾：你身上这件衣服，可是我做的。"
+      ],
+      "context": "你是一个知识类短视频博主。开头像跟朋友聊天时，说出一个大家常拌嘴的问题，带一点笑意和好奇，自然、从容、不着急",
+      "rate": 14
+    },
+    {
+      "id": "menu",
+      "lines": [
+        "《国富论》里说，城里吃的用的全靠乡下，可城里挣的，不是从乡下抢来的。⏸",
+        "城里拿什么换乡下的粮？为什么先有乡下才有城？地便宜，余钱去哪？"
+      ],
+      "context": "你是一个知识类短视频博主。说“不是从乡下抢来的”时肯定、平稳；三个问题一口气问完，轻快、不着急"
+    },
+    {
+      "id": "trade",
+      "lines": [
+        "要是没有裁缝，农夫想要一件衣服，只能自己缝，一缝就是十天。",
+        "现在他拿相当于三天活计的粮，去跟阿禾换，衣服当天就穿上了。犁、锄头、车轮，也都是这么换来的。",
+        "小满：那粮都让城里人吃了，农夫不亏吗？",
+        "不亏。书里说，乡下人拿少得多的劳动，换回多得多的东西；阿禾也靠这些粮，才不用自己下地。",
+        "离镇子越近越划算。一英里外种的粮，和二十英里外运来的卖一个价，近处的农夫光运费就省下一大笔。",
+        "农夫：这么一算，我还赚了。",
+        "城里一粒粮也不长，吃的用的全靠乡下；乡下的余粮，也在城里找到了买家。两边都赚了。⏸"
+      ]
+    },
+    {
+      "id": "grow",
+      "lines": [
+        "那为什么是先有乡下，才有城？",
+        "书里说，吃饭比享受在先。地里先得多出粮来，才养得起不种地的人。",
+        "种地离不开手艺人。铁匠、木匠、鞋匠、裁缝，一个个搬到农夫旁边，屠夫、面包师跟着来，小村就成了小镇。",
+        "镇子像一个天天开的集市，乡下人拿粮来，换衣服、换农具。",
+        "小雪：那镇子越大，乡下不就越吃亏？",
+        "不会。镇上的人越多，乡下多出来的粮越卖得掉，地也越种越好。",
+        "农夫：镇上人一多，我的粮反倒不愁卖了。",
+        "养活城里人的，是乡下多出来的粮；这些粮不一定出在附近，也能从很远的地方运来。⏸"
+      ]
+    },
+    {
+      "id": "land",
+      "lines": [
+        "可本钱，也会被别的去处吸走。",
+        "要是在北美那些殖民地，荒地还很便宜，阿禾攒下一点钱，第一件事就是买块地，自己种。",
+        "阿禾：种自己的地，我就是自己的主人，不用再看客人脸色。",
+        "书里说，利润差不多的时候，大多数人都愿意把本钱放在地上，看得见、管得着，心里也踏实。乡下又清静、自在，谁都有点舍不得。",
+        "小满：地便宜，不是好事吗？",
+        "对种地的人是好事。可手艺人有了余钱，更愿意先买地，给远处做货的作坊，就开得晚。",
+        "反过来，没有便宜地可买的地方，手艺人有了余钱，才会开作坊，给更远的地方做货。⏸"
+      ]
+    },
+    {
+      "id": "ending",
+      "lines": [
+        "回到开头那个镇子。",
+        "城里人和乡下人，到底谁养活谁？书里说，他们互相是对方的仆人。⏸",
+        "书里把这个顺序叫“财富的自然进步”，大部分本钱先去种地，再去开作坊，最后才做外贸。利润差不多的时候，开作坊又比跑外贸看得住，所以外贸排在最后。",
+        "今天常说，农业先得有剩余，城市才长得起来。",
+        "不过别套错，这是斯密说的自然顺序，各国实际怎么走，还要看土地、贸易和制度。",
+        "下次再听到谁养活谁，先问一句，他们拿什么跟对方换？⏸"
+      ]
+    },
+    {
+      "id": "cta",
+      "lines": [
+        "可近代欧洲偏偏把这个顺序倒了过来，大片的地几百年都没好好种，为什么？下一集接着讲。⏸"
+      ]
+    }
+  ],
+  "facts": [
+    "开头“城里人和乡下人，到底谁养活谁”是大家常说的话，当代说法，非原著；只讲书里那个靠人力种地、靠马车运粮的年代，不对今天的城乡差距、户口、农业补贴、返乡就业下判断，不构成投资或就业建议。",
+    "城里吃的用的全靠乡下：Book III Chapter I——The country supplies the town with the means of subsistence and the materials of manufacture… may very properly be said to gain its whole wealth and subsistence from the country。",
+    "城里挣的不是从乡下抢来的、两边都得利：同章——We must not, however, upon this account, imagine that the gain of the town is the loss of the country. The gains of both are mutual and reciprocal。",
+    "乡下人拿少得多的劳动换回多得多的制成品：同章——purchase of the town a greater quantity of manufactured goods with the produce of a much smaller quantity of their own labour。“要是没有裁缝，自己缝一件衣服要十天；拿相当于三天活计的粮换一件”是创作示例，具体天数非原著（10-29 第二版：原稿“三天种出来的粮”像在说粮三天长熟，改成劳动量）。小满台词是剧情化的说法。",
+    "城里是乡下多余粮食的市场（片中说“乡下的余粮，也在城里找到了买家”，10-29 第二版去掉原稿的“只有城里收”）：同章——The town affords a market for the surplus produce of the country。",
+    "吃饭比享受在先，养活城里人的是乡下多出来的粮：同章——As subsistence is, in the nature of things, prior to conveniency and luxury… It is the surplus produce of the country only… that constitutes the subsistence of the town。这些粮不一定出在附近，也能从很远的地方运来：同章——The town, indeed, may not always derive its whole subsistence from the country in its neighbourhood, or even from the territory to which it belongs, but from very distant countries。（10-29 第二版：原稿“城能长多大，就看乡下能多出多少粮”说过头，改掉。）",
+    "手艺人搬到农夫旁边，屠夫、酿酒的、面包师跟来，成了小镇：同章——Smiths, carpenters, wheelwrights and ploughwrights, masons and bricklayers, tanners, shoemakers, and tailors… The butcher, the brewer, and the baker, soon join them。片中只点铁匠、木匠、鞋匠、裁缝、屠夫、面包师。",
+    "镇上的人越多，乡下的市场越大、地越种越好：同章——The greater the number and revenue of the inhabitants of the town, the more extensive is the market which it affords / this demand can augment only in proportion to the extension of improvement and cultivation。小雪台词是剧情化的说法。",
+    "北美殖民地荒地便宜，手艺人有了余钱更愿意先买地自己种，给远方做货的作坊开得晚（原文：那里的镇子还没有建起给远方做货的作坊；片中不说镇子长得慢，也不说手艺人全走了——10-29 第二版改正）：同章——In our North American colonies, where uncultivated land is still to be had upon easy terms, no manufactures for distant sale have ever yet been established in any of their towns… he becomes a planter。阿禾去殖民地买地是把书里的手艺人代进同一个角色，创作示例。",
+    "自己种地是自己的主人，手艺人得看顾客：同章——is really a master, and independent of all the world / the artificer is the servant of his customers。阿禾台词是剧情化的说法。",
+    "利润差不多时，大多数人愿意把本钱放在地上，看得见、管得着、更安心：同章——Upon equal, or nearly equal profits, most men will choose to employ their capitals, rather in the improvement and cultivation of land… The capital of the landlord… which is fixed in the improvement of his land, seems to be as well secured as the nature of human affairs can admit of。",
+    "城里人和乡下人互相是对方的仆人：同章——The inhabitants of the town and those of the country are mutually the servants of one another（写剧本前逐字核过一遍再定）。",
+    "财富的自然进步：本钱先去种地、再去制造、最后去外贸：同章——according to the natural course of things, the greater part of capital of every growing society is, first, directed to agriculture, afterwards to manufactures, and, last of all, to foreign commerce。章名 Of the Natural Progress of Opulence。“农业先得有剩余，城市才长得起来”是现代解释，非原著用词。",
+    "结尾“别套错”（10-29 第二版）：“这是斯密说的自然顺序，各国实际怎么走，还要看土地、贸易和制度”——同章斯密就说近代欧洲把这个顺序倒了过来，下一章讲原因；原稿“今天一个人能种几百亩地”删掉（机器改的是要多少人种地，余粮养活城里人这一层今天也在）。“大部分本钱先去种地”对应原文 the greater part of capital。",
+    "近代欧洲把这个顺序在很多方面整个倒过来了：同章——it has, in all the modern states of Europe, been in many respects entirely inverted。“大片的地几百年都没好好种”是下一章（第三篇第2章）的内容（大片土地被少数人占着，大地主很少用心改良），用作预告；10-29 第二版去掉原稿“地主都不好好种地”的“都”。",
+    "离城一英里种的粮和二十英里外运来的卖一个价，近处的人省了运费：同章——The corn which grows within a mile of the town, sells there for the same price with that which comes from twenty miles distance… they save, besides, the whole value of this carriage in the price of what they buy。农夫台词是剧情化的说法。",
+    "镇子像天天开的集市：同章——The town is a continual fair or market, to which the inhabitants of the country resort, in order to exchange their rude for manufactured produce。",
+    "没有便宜地可买的地方，手艺人有了余钱，才开作坊给远处做货：同章——endeavours to prepare work for more distant sale（原文是两种地方的对比；10-29 第二版去掉原稿“要等便宜的地都有了主”的先后说法）。",
+    "略：#17 种地是人最初的本分（并进 #14–#16，篇幅）；#25 利润差不多时开厂比外贸更受欢迎（篇幅，结尾自然顺序带过）；#26 古埃及、中国、印度斯坦（合规：点名国家作比较）。"
+  ]
+}

@@ -1,0 +1,14 @@
+# 密钥永远不进仓库
+.env
+*.env
+
+# 成片、音频、素材
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
