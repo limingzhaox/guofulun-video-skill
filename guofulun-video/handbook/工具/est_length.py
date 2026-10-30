@@ -39,6 +39,6 @@ c, p, l, texts = stats(ep)
 est = c * per_char + p * 0.45 + l * 0.35 + 1.85
 print(f"基准 {base}：{bc} 字、{bp} 个⏸、{bl} 句、实测 {total:.1f} 秒 → 每字约 {per_char:.3f} 秒")
 print(f"{ep}：{c} 字、{p} 个⏸、{l} 句 → 估计 {est:.0f} 秒（{int(est // 60)} 分 {est % 60:.0f} 秒）")
-print("标准集 225–270 秒（3:45–4:30）；3 分钟试验 170–195 秒（2:50–3:15）")
+print("标准 240–300 秒（4:00–5:00，10-30 起不再压缩）")
 joined = "".join(texts)
 print(f"“书里” {joined.count('书里')} 次；“斯密” {joined.count('斯密')} 次（≤2）；“《国富论》” {joined.count('《国富论》')} 次")

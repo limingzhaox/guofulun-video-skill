@@ -1,0 +1,23 @@
+{
+  "name": "guofulun-studio",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^5.3.1",
+    "@fontsource/noto-serif-sc": "^5.3.1",
+    "@remotion/cli": "^4.0.536",
+    "@remotion/fonts": "^4.0.536",
+    "@remotion/media": "^4.0.536",
+    "@remotion/media-utils": "^4.0.536",
+    "@remotion/rough-notation": "^4.0.536",
+    "@remotion/transitions": "^4.0.536",
+    "@types/react": "^19.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.536",
+    "typescript": "^7.0.2"
+  }
+}

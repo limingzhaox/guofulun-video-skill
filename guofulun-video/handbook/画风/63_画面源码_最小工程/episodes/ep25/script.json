@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "ep": 25,
+    "chapter": "第三篇 · 第3章 罗马帝国倒了以后，城市怎样兴起",
+    "title": "几百年前的欧洲，农奴攒了钱为什么要带进城",
+    "folder": "EP25_第三篇第3章_城市的自由"
+  },
+  "music": "baroque",
+  "cold": true,
+  "tts": {
+    "engine": "volc",
+    "voice": "zh_male_m191_uranus_bigtts",
+    "speech_rate": 24,
+    "context": "你是一个知识类短视频博主，像跟朋友聊天一样，亲切自然、有感染力地讲故事，句子之间有停顿",
+    "edge_voice": "zh-CN-YunxiNeural",
+    "edge_rate": "+15%",
+    "cast": {
+      "小满": {
+        "voice": "zh_male_shaonianzixin_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里好奇的小男孩小满，说话直，第一反应很快，句子很短"
+      },
+      "小雪": {
+        "voice": "zh_female_tianmeitaozi_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里聪明的小女孩小雪，声音甜甜的，爱追问为什么，语气轻快，句子很短"
+      },
+      "农夫": {
+        "voice": "zh_male_dayi_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里几百年前欧洲的农奴，五十岁上下，嗓门大、实在，说起老爷有点怕、又有点盼头，句子很短"
+      },
+      "阿禾": {
+        "voice": "zh_male_taocheng_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里几百年前挑着货赶集的小商贩阿禾，三十岁上下，爱较真，说起处处交钱有点委屈，句子很短"
+      },
+      "地主": {
+        "voice": "zh_male_kailangxuezhang_uranus_bigtts",
+        "speech_rate": 0,
+        "context": "你是动画片里几百年前的大领主，五十多岁，说话慢条斯理，看不起卖货的人，有点傲慢，句子很短"
+      }
+    }
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        "你知道吗，几百年前的欧洲，农奴攒了钱，就算冒着被抓回去的风险，也要带进城。",
+        "农夫：这点钱让老爷知道了，就归他了；带进城，躲他一年，人和钱就都是我自己的了。"
+      ],
+      "context": "你是一个知识类短视频博主。开头像跟朋友聊天时，说出一件让人好奇的往事，带一点神秘感，自然、从容、不着急",
+      "rate": 14
+    },
+    {
+      "id": "menu",
+      "lines": [
+        "《国富论》里说，那时候乡下归老爷管；城里有城墙、有自己的规矩，老爷管不着，人和攒下的钱才安全。",
+        "城里人一开始就自由吗？城里的自由是怎么换来的？城里富了，乡下跟着富了吗？"
+      ],
+      "context": "你是一个知识类短视频博主。第一句肯定、平稳；三个问题一口气问完，轻快、不着急"
+    },
+    {
+      "id": "poor",
+      "lines": [
+        "城里人一开始，也不比乡下人自由。",
+        "罗马帝国倒了以后，城里住的多半是手艺人和做小买卖的，几乎和农奴一样，人得听老爷管。",
+        "书里说，他们又穷又被人看不起，挑着货从一个集赶到另一个集，像今天走街串巷的货郎。",
+        "阿禾：过条路要交钱，过座桥要交钱，摆个摊还要交钱，我挣的还不够交的。",
+        "也有省事的办法。有的货郎每年给国王或者领主交一笔钱，按人头算，交了这笔钱，路上那些过路钱、过桥钱就不用再交了。可这笔按人头算的钱，年年都得交。⏸"
+      ]
+    },
+    {
+      "id": "free",
+      "lines": [
+        "小满：那城里人，后来是怎么翻身的？",
+        "城里人得到自由，比乡下种地的人早得多。",
+        "国王收这笔按人头算的税，常常包给别人。包的人每年先给国王交一笔定好的钱，再自己去收，几年一包。后来，干脆包给城里人自己。",
+        "全城一起担这笔钱，怎么收、找谁收，城里人自己定。",
+        "再后来，国王把这笔税永远包给了全城，定好的钱以后再也不涨。城就成了书里说的“自由市”，也就是自己管自己的城。",
+        "阿禾：税是定死的，以后多挣的，就都是自己的了。",
+        "斯密还推测，城里人慢慢有了嫁女儿不用老爷点头、孩子能继承家产、自己能立遗嘱这些权利。",
+        "城里有了自己的官、自己的议会，能自己定规矩、修城墙，城里的人还得轮流守夜、守城。",
+        "城里越来越富，这笔税本来能越收越多，国王却换成了一笔永远不涨的钱，还在自己的国土里，养出一个个自己管自己的城。这事，斯密自己都觉得奇怪。",
+        "小雪：国王为什么要把钱和权都让出去？",
+        "书里说，那时候国王弱，大领主欺负城里人，他管不住。大领主看不起城里人，城里人又恨又怕大领主，国王对大领主，也一样又恨又怕。",
+        "地主：一帮卖货的，也配跟我平起平坐？",
+        "城里人是国王敌人的敌人。城里人越安全、越不受大领主管，对国王越有好处，城里人也就站到了国王一边。",
+        "所以，跟大领主关系越差的国王，给城里的自由就越多。",
+        "有的城后来越来越强。国王除了那笔定好的钱，想再向城里多收税，得城里点头；所以全国开大会商量加税，也得请城里派代表去。⏸"
+      ]
+    },
+    {
+      "id": "rich",
+      "lines": [
+        "城里先有了秩序、像样的管理，人自由了，人和钱也都安全了。可是乡下种地的人，还没人保护。",
+        "书里说，没人保护的人，只求吃饱，多挣了也怕被人抢走；只有觉得挣到的东西能留在自己手里，人才会想办法过得更好。",
+        "回到开头那个农夫。他攒下的钱，让老爷知道就会被拿走，所以只好藏好，一有机会就带着逃进城。",
+        "在城里躲过老爷一年，他就永远自由了。钱就这样，一笔一笔聚到了城里。",
+        "靠海、靠大河的城，还能把东西运到很远的地方去卖。最早靠做买卖富起来的，大概是意大利的那些城。",
+        "有钱的大地主拿本地的羊毛、粮食，去换远方的好酒、细布。远方的好东西有了买主，商人为了省运费，就在本地开作坊，照着做，用的多是外地运来的原料。",
+        "书里举过例子。有一年，九百户人家被赶出意大利的一座城，其中三十一户去了威尼斯，提出在那里办丝绸作坊。",
+        "还有一条路，是本地的粗手艺一点点做细。书里说，这样的作坊是农业的孩子，靠的是本地便宜的粮食和原料。",
+        "一匹细布只有八十磅重。织布的工人要吃饭，他们吃掉的粮食，有时有几千磅，这些粮食的价钱都算进了布价里。粮食又沉又占地方，运不了多远；织成细布，就能运到很远的地方去卖。这就等于把粮食换了个样子，卖到了远方。",
+        "小满：城里这么富，乡下也跟着富了吧？",
+        "书里说，不一定。一座城可以富起来，它周围的乡下，连同跟它做买卖的那些地方，却照样穷。⏸"
+      ]
+    },
+    {
+      "id": "ending",
+      "lines": [
+        "回到农夫要进的那座城门。",
+        "城里的自由，是一点点换来的。先是城里人把国王的税包下来，自己管自己；后来城里人和国王都怕大领主，两边站到了一起，城里这才有了城墙、规矩和安全。人和攒下的钱，就往这样的城里聚。⏸",
+        "书里把这样的城叫“自由市”。今天常说，这是“城市自治”。",
+        "不过别套错，这些都是几百年前欧洲的事，那时的国王、领主和城，都和今天不一样。这一集只讲书里的道理，不拿它评价今天的政策。",
+        "换到今天，很多人往大城市跑，图的是工作好找、机会多。几百年前那个农夫往城里跑，图的更简单，就是攒下的钱别被人拿走。",
+        "下次听说哪个地方人和钱越聚越多，除了问那儿机会多不多，也问一句，在那儿，挣到的钱能不能安安稳稳留在自己手里？⏸"
+      ]
+    },
+    {
+      "id": "cta",
+      "lines": [
+        "城里富了，乡下又是怎么跟着富起来的？下一集接着讲。⏸"
+      ]
+    }
+  ],
+  "facts": [
+    "开头“你知道吗，几百年前的欧洲，农奴攒了钱，就算冒着被抓回去的风险，也要带进城。”（10-31 用户定；第二轮用户指出原句“你知道吗……为什么……？”两个问法叠在一起是病句，改成陈述：A 话题保留，补背景；用户写了“你知道吗……拼尽全力也要带进城”，按书里老爷会追捕改成“冒着被抓回去的风险”；开头不接现代话题；结尾第二轮用户要求补今天的大城市）。只讲几百年前的欧洲，不评价今天的户籍、城乡政策，不构成投资建议。农夫、阿禾、地主、小满、小雪的台词是剧情化的说法。",
+    "农奴攒了钱会小心藏起来，不让主人知道，否则就归主人；一有机会就逃进城：Book III Chapter III——he would naturally conceal it with great care from his master, to whom it would otherwise have belonged, and take the first opportunity of running away to a town。在城里躲过老爷一年就永远自由：if he could conceal himself there from the pursuit of his lord for a year he was free forever（原文是“一年”，不是“一年零一天”）。",
+    "城是攒下的本钱唯一安全的地方：naturally took refuge in cities, as the only sanctuaries in which it could be secure to the person that acquired it。",
+    "罗马帝国倒了以后，城里人并不比乡下人好过，几乎和农奴一样不自由：The inhabitants of cities and towns were, after the fall of the Roman empire, not more favored than those of the country / who seem in those days to have been of servile, or very nearly of servile condition。",
+    "又穷又被看不起，带着货从一处到一处、一个集到一个集，像今天的货郎：They seem, indeed, to have been a very poor, mean set of people, who used to travel about with their goods from place to place, and from fair to fair, like the hawkers and pedlers of the present times。过桥、过境、运货、摆摊都收钱，在英国叫 passage、pontage、lastage、stallage（片中由阿禾说“过条路、过座桥、摆个摊都要交钱”，运货那项略，不报英文名目）。阿禾“我挣的还不够交的”是剧情化的台词。",
+    "有的人由国王或大领主免了这些过路过桥钱，叫“自由商人”，作为交换，每年给保护他的人交一笔按人头算的税（片中说“交了这笔钱，路上那些过路钱、过桥钱就不用再交了”，“自由商人”这个叫法不念）：were upon this account called Free-traders. They in return usually paid to their protector a sort of annual poll-tax。",
+    "城里人比乡下种地的人早得多得到自由：they arrived at liberty and independence much earlier than the occupiers of land in the country。人头税常包出去几年，租金固定，有时包给城里人自己，全城一起担责、自己定怎么收：used commonly to be let in farm, during a term of years for a rent certain / they becoming jointly and severally answerable for the whole rent; but in return being allowed to collect it in their own way。",
+    "后来普遍永远包给全城，租金定死、以后永远不涨，城成了“自由市”：it seems to have become the general practice to grant it to them in fee, that is forever / reserving a rent certain never afterward to be augmented / Free burgh。",
+    "嫁女儿不用老爷同意、孩子能继承、能立遗嘱，斯密是推测：I reckon it not improbable that they were, though I cannot produce any direct evidence of it（片中只说“斯密还推测”，10-31 用户要求删掉“他也说，拿不出直接证据”；“推测”已经表明不是定论）。",
+    "自己的官、议会、定规矩、修城墙，全城轮流守夜守城：of making bylaws for their own government, of building walls for their own defence / of reducing all their inhabitants under a sort of military discipline, by obliging them to watch and ward。",
+    "国王弱，保护不了平民不受大领主欺负；大领主看不起城里人，城里人又恨又怕大领主，国王也又恨又怕大领主：The lords despised the burghers / The burghers naturally hated and feared the lords. The king hated and feared them too。城里人是国王敌人的敌人，国王让他们越安全、越不依赖大领主越好；彼此有共同利益：They were the enemies of his enemies, and it was his interest to render them as secure and independent of those enemies as he could / Mutual interest, therefore, disposed them to support the king。地主（由银行家演大领主）“一帮卖货的，也配跟我平起平坐？”是剧情化的台词。",
+    "和大领主关系越差的国王给城市的自由越多：The princes who lived upon the worst terms with their barons seem accordingly to have been the most liberal（不点名国王和国家）。城强到国王除定额以外加税要城里同意，于是请城里派代表去全国的议会（原文说的是法国、英国，片中说“有的城”“全国开大会”，原文见下面现代联系那条）。",
+    "城里先有了秩序、好的治理、个人的自由和安全：Order and good government, and along with them the liberty and security of individuals。没人保护的人只求吃饱，多挣了也怕招来欺压；能安心享有劳动成果，才会想办法过得更好：men in this defenceless state naturally content themselves with their necessary subsistence / when they are secure of enjoying the fruits of their industry, they naturally exert it to better their condition。",
+    "靠海靠河的城能做远方生意；意大利的城最早靠商业富起来：The cities of Italy seem to have been the first in Europe which were raised by commerce（十字军、撒拉逊人、摩尔人略：合规）。一座城可以很富，周围的乡下和跟它做生意的地方却很穷：A city might in this manner grow up to great wealth and splendor, while not only the country in its neighborhood, but all those to which it traded, were in poverty and wretchedness。",
+    "拿本地的原产品换远方的精巧货（英国羊毛换法国酒、佛兰德细布）；商人为省运费在本地开作坊照着做：the merchants, in order to save the expense of carriage, naturally endeavored to establish some manufactures。本地粗手艺一点点做细，“是农业的孩子”，靠本地便宜的粮食和原料：Such manufactures are the offspring of agriculture / the cheapness of provisions（地名略）。",
+    "国王拿一笔会越收越多的税，换成永远不涨的定额，还在自己国土里养出一个个半独立的城，斯密也觉得奇怪：But it must seem extraordinary that the sovereigns of all the different countries of Europe should have exchanged in this manner for a rent certain, never more to be augmented, that branch of their revenue which was perhaps of all others the most likely to be improved by the natural course of things / a sort of independent republics in the heart of their own dominions。阿禾“税是定死的，以后多挣的就都是自己的”是剧情化的说法。1310 年九百户人家被赶出卢卡，三十一户去了威尼斯，提出在那里办丝绸作坊：In 1310, nine hundred families were driven out of Lucca, of whom thirty-one retired to Venice, and offered to introduce there the silk manufacture（片中说“意大利的一座城”，不报年份和城名）。照外国货做的作坊多用外国原料：Manufactures introduced in this manner are generally employed upon foreign materials。八十磅细布的价钱里包着羊毛和有时几千磅粮食（织布的人和雇主吃掉的），粮食难运，做成细布等于把粮卖到远处：A piece of fine cloth, for example, which weighs only eighty pounds, contains in it the price, not only of eighty pounds weight of wool, but sometimes of several thousand weight of corn, the maintenance of the different working people, and of their immediate employers. The corn, which could with difficulty have been carried abroad in its own shape, is in this manner virtually exported。",
+    "结尾“换到今天，很多人往大城市跑，图的是工作好找、机会多”和“除了问那儿机会多不多”是 10-31 用户要求补的现代联系，现代说法，非原著；只说人图什么，不评价哪个城市、哪项政策，不比较城乡好坏，不提户籍、上学、房价。国王除定额外加税要城里同意、派代表去议会：They became, however, so considerable that the sovereign could impose no tax upon them, besides the stated fee-farm rent of the town, without their own consent. They were, therefore, called upon to send deputies to the general assembly of the states of the kingdom（片中说“有的城”“全国开大会商量加税”，不点名国家；原文接着说派代表是为了和教士、大领主一起，在急需时给国王额外的钱）。细布那句改成按因果讲：织工吃的粮算进布价（原文还有雇主的开销，片中只说工人），粮太重运不远，织成细布就能运到远处，等于把粮换个样子卖到远方（virtually exported）。",
+    "“城市自治”是现代说法，现代解释，非原著用词。结尾“别套错”“不拿它评价今天的政策”是现代说明。",
+    "下一集：第三篇第4章，城里的生意怎样带动乡下（EP26）。",
+    "略：意大利、瑞士的城成了独立共和国、伯尔尼（篇幅）；点名约翰王、胖子路易、德意志、汉萨同盟（篇幅、点名）；十字军、撒拉逊人、摩尔人（合规）；大国都有手工业（篇幅）；1310 年这个年份和卢卡这个城名、利兹等地名（篇幅、地名；卢卡的事讲了，只说“意大利的一座城”）。"
+  ]
+}

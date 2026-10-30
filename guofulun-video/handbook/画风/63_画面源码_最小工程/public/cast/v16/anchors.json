@@ -1,0 +1,2377 @@
+{
+ "female_front": {
+  "w": 387,
+  "h": 593,
+  "eyes": [
+   {
+    "x": 104,
+    "y": 189,
+    "w": 60,
+    "h": 47,
+    "grown": true,
+    "skin": "#feedd7"
+   },
+   {
+    "x": 229,
+    "y": 181,
+    "w": 63,
+    "h": 48,
+    "grown": true,
+    "skin": "#feeed9"
+   }
+  ],
+  "skin": "#fdf0dd"
+ },
+ "female_tq_r": {
+  "w": 374,
+  "h": 597,
+  "eyes": [
+   {
+    "x": 158,
+    "y": 190,
+    "w": 62,
+    "h": 51,
+    "grown": true,
+    "skin": "#feeed8"
+   },
+   {
+    "x": 280,
+    "y": 186,
+    "w": 28,
+    "h": 42,
+    "grown": true,
+    "skin": "#feedd6"
+   }
+  ],
+  "skin": "#feeed8",
+  "mouth": {
+   "x": 257,
+   "y": 253,
+   "w": 24,
+   "h": 6,
+   "line": [
+    246,
+    249,
+    269,
+    257
+   ],
+   "bg": "#feeed8"
+  }
+ },
+ "female_pr_r": {
+  "w": 333,
+  "h": 596,
+  "eyes": [
+   {
+    "x": 242,
+    "y": 178,
+    "w": 45,
+    "h": 53,
+    "grown": true,
+    "skin": "#feeed8"
+   }
+  ],
+  "skin": "#fed2b0"
+ },
+ "female_pr_l": {
+  "w": 334,
+  "h": 598,
+  "eyes": [
+   {
+    "x": 40,
+    "y": 171,
+    "w": 46,
+    "h": 53,
+    "grown": true,
+    "skin": "#feedd7"
+   }
+  ],
+  "skin": "#fed0ae"
+ },
+ "female_tq_l": {
+  "w": 379,
+  "h": 601,
+  "eyes": [
+   {
+    "x": 66,
+    "y": 177,
+    "w": 45,
+    "h": 50,
+    "grown": true,
+    "skin": "#feedd7"
+   },
+   {
+    "x": 170,
+    "y": 186,
+    "w": 66,
+    "h": 51,
+    "grown": true,
+    "skin": "#feedd7"
+   }
+  ],
+  "skin": "#feedd6",
+  "mouth": {
+   "x": 133,
+   "y": 252,
+   "w": 24,
+   "h": 6,
+   "line": [
+    122,
+    248,
+    145,
+    256
+   ],
+   "bg": "#feeed8"
+  }
+ },
+ "female_front_base": {
+  "w": 818,
+  "h": 1149,
+  "eyes": [
+   {
+    "x": 230,
+    "y": 397,
+    "w": 124,
+    "h": 88,
+    "grown": true,
+    "skin": "#feecd2"
+   },
+   {
+    "x": 497,
+    "y": 369,
+    "w": 137,
+    "h": 94,
+    "grown": true,
+    "skin": "#feecd3"
+   }
+  ],
+  "mouth": {
+   "x": 437,
+   "y": 516,
+   "w": 54,
+   "h": 6,
+   "line": [
+    411,
+    508,
+    464,
+    525
+   ],
+   "bg": "#feedd5"
+  },
+  "skin": "#feecd3"
+ },
+ "xiaoman_front": {
+  "w": 277,
+  "h": 488,
+  "eyes": [
+   {
+    "x": 65,
+    "y": 162,
+    "w": 57,
+    "h": 52,
+    "grown": true,
+    "skin": "#fee9d0"
+   },
+   {
+    "x": 176,
+    "y": 158,
+    "w": 54,
+    "h": 52,
+    "grown": true,
+    "skin": "#fee8ce"
+   }
+  ],
+  "skin": "#fbe9d4",
+  "mouth": {
+   "x": 149,
+   "y": 224,
+   "w": 25,
+   "h": 6,
+   "line": [
+    137,
+    221,
+    161,
+    227
+   ],
+   "bg": "#feebd3"
+  }
+ },
+ "xiaoman_tq_r": {
+  "w": 279,
+  "h": 491,
+  "eyes": [
+   {
+    "x": 107,
+    "y": 162,
+    "w": 57,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee8ce"
+   },
+   {
+    "x": 213,
+    "y": 165,
+    "w": 26,
+    "h": 42,
+    "grown": true,
+    "skin": "#fee6cb"
+   }
+  ],
+  "skin": "#feebd4",
+  "mouth": {
+   "x": 189,
+   "y": 223,
+   "w": 20,
+   "h": 6,
+   "line": [
+    180,
+    221,
+    199,
+    226
+   ],
+   "bg": "#feead2"
+  }
+ },
+ "xiaoman_pr_r": {
+  "w": 263,
+  "h": 489,
+  "eyes": [
+   {
+    "x": 180,
+    "y": 157,
+    "w": 43,
+    "h": 54,
+    "grown": true,
+    "skin": "#fee8cd"
+   }
+  ],
+  "skin": "#fdd3b3"
+ },
+ "xiaoman_pr_l": {
+  "w": 271,
+  "h": 490,
+  "eyes": [
+   {
+    "x": 43,
+    "y": 151,
+    "w": 49,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee7cd"
+   }
+  ],
+  "skin": "#fddbbe"
+ },
+ "xiaoman_tq_l": {
+  "w": 280,
+  "h": 486,
+  "eyes": [
+   {
+    "x": 33,
+    "y": 154,
+    "w": 39,
+    "h": 50,
+    "grown": true,
+    "skin": "#fee7cd"
+   },
+   {
+    "x": 119,
+    "y": 160,
+    "w": 57,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee7ce"
+   }
+  ],
+  "skin": "#feead2",
+  "mouth": {
+   "x": 93,
+   "y": 219,
+   "w": 20,
+   "h": 6,
+   "line": [
+    84,
+    217,
+    103,
+    222
+   ],
+   "bg": "#feead2"
+  }
+ },
+ "ahe_front": {
+  "w": 311,
+  "h": 496,
+  "eyes": [
+   {
+    "x": 58,
+    "y": 146,
+    "w": 52,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed6a8"
+   },
+   {
+    "x": 164,
+    "y": 146,
+    "w": 56,
+    "h": 54,
+    "grown": true,
+    "skin": "#fed6a9"
+   }
+  ],
+  "skin": "#fdd5a8",
+  "mouth": {
+   "x": 138,
+   "y": 212,
+   "w": 31,
+   "h": 6,
+   "line": [
+    123,
+    209,
+    153,
+    216
+   ],
+   "bg": "#fed7ab"
+  }
+ },
+ "ahe_tq_r": {
+  "w": 278,
+  "h": 497,
+  "eyes": [
+   {
+    "x": 111,
+    "y": 150,
+    "w": 57,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed5a8"
+   },
+   {
+    "x": 214,
+    "y": 147,
+    "w": 32,
+    "h": 51,
+    "grown": true,
+    "skin": "#fed7ab"
+   }
+  ],
+  "skin": "#fed8ad",
+  "mouth": {
+   "x": 191,
+   "y": 216,
+   "w": 28,
+   "h": 6,
+   "line": [
+    178,
+    212,
+    205,
+    220
+   ],
+   "bg": "#fed6a9"
+  }
+ },
+ "ahe_pr_r": {
+  "w": 284,
+  "h": 497,
+  "eyes": [
+   {
+    "x": 206,
+    "y": 145,
+    "w": 41,
+    "h": 57,
+    "grown": true,
+    "skin": "#fed5a8"
+   }
+  ],
+  "skin": "#fecc9e"
+ },
+ "ahe_pr_l": {
+  "w": 275,
+  "h": 498,
+  "eyes": [
+   {
+    "x": 40,
+    "y": 139,
+    "w": 45,
+    "h": 55,
+    "grown": true,
+    "skin": "#fed4a7"
+   }
+  ],
+  "skin": "#feca9a"
+ },
+ "ahe_tq_l": {
+  "w": 307,
+  "h": 500,
+  "eyes": [
+   {
+    "x": 37,
+    "y": 144,
+    "w": 38,
+    "h": 51,
+    "grown": true,
+    "skin": "#fed5a7"
+   },
+   {
+    "x": 120,
+    "y": 150,
+    "w": 56,
+    "h": 52,
+    "grown": true,
+    "skin": "#fed4a6"
+   }
+  ],
+  "skin": "#fdd3a6",
+  "mouth": {
+   "x": 96,
+   "y": 212,
+   "w": 26,
+   "h": 6,
+   "line": [
+    84,
+    209,
+    109,
+    215
+   ],
+   "bg": "#fed6a8"
+  }
+ },
+ "amu_front": {
+  "w": 320,
+  "h": 479,
+  "eyes": [
+   {
+    "x": 71,
+    "y": 127,
+    "w": 54,
+    "h": 49,
+    "grown": true,
+    "skin": "#fcd0aa"
+   },
+   {
+    "x": 189,
+    "y": 126,
+    "w": 57,
+    "h": 49,
+    "grown": true,
+    "skin": "#fcd1aa"
+   }
+  ],
+  "skin": "#fefaf0",
+  "mouth": {
+   "x": 156,
+   "y": 192,
+   "w": 21,
+   "h": 6,
+   "line": [
+    146,
+    190,
+    166,
+    195
+   ],
+   "bg": "#fefaef"
+  }
+ },
+ "amu_tq_r": {
+  "w": 307,
+  "h": 486,
+  "eyes": [
+   {
+    "x": 133,
+    "y": 126,
+    "w": 55,
+    "h": 50,
+    "grown": true,
+    "skin": "#fccfa9"
+   },
+   {
+    "x": 240,
+    "y": 126,
+    "w": 29,
+    "h": 40,
+    "grown": true,
+    "skin": "#fac8a0"
+   }
+  ],
+  "skin": "#fefaf0",
+  "mouth": {
+   "x": 219,
+   "y": 189,
+   "w": 19,
+   "h": 6,
+   "line": [
+    210,
+    187,
+    228,
+    191
+   ],
+   "bg": "#fefaef"
+  }
+ },
+ "amu_pr_r": {
+  "w": 302,
+  "h": 482,
+  "eyes": [
+   {
+    "x": 225,
+    "y": 117,
+    "w": 36,
+    "h": 55,
+    "grown": true,
+    "skin": "#fbcda6"
+   }
+  ],
+  "skin": "#f6aa8a"
+ },
+ "amu_pr_l": {
+  "w": 302,
+  "h": 482,
+  "eyes": [
+   {
+    "x": 18,
+    "y": 105,
+    "w": 4,
+    "h": 28,
+    "grown": true,
+    "skin": "#fbcfa9"
+   },
+   {
+    "x": 43,
+    "y": 112,
+    "w": 41,
+    "h": 52,
+    "grown": true,
+    "skin": "#fccda6"
+   }
+  ],
+  "skin": "#e6b393"
+ },
+ "amu_tq_l": {
+  "w": 322,
+  "h": 486,
+  "eyes": [
+   {
+    "x": 44,
+    "y": 123,
+    "w": 32,
+    "h": 41,
+    "grown": true,
+    "skin": "#fbc69e"
+   },
+   {
+    "x": 128,
+    "y": 126,
+    "w": 53,
+    "h": 50,
+    "grown": true,
+    "skin": "#fbd0aa"
+   }
+  ],
+  "skin": "#fefaf0",
+  "mouth": {
+   "x": 94,
+   "y": 185,
+   "w": 19,
+   "h": 6,
+   "line": [
+    85,
+    183,
+    103,
+    188
+   ],
+   "bg": "#fefaef"
+  }
+ },
+ "cat_front": {
+  "w": 569,
+  "h": 659,
+  "eyes": [
+   {
+    "x": 183,
+    "y": 204,
+    "w": 99,
+    "h": 95,
+    "n": 0,
+    "skin": "#e0bb95"
+   },
+   {
+    "x": 380,
+    "y": 203,
+    "w": 87,
+    "h": 88,
+    "n": 0,
+    "skin": "#e1bd98"
+   }
+  ],
+  "mouth": {
+   "x": 332,
+   "y": 310,
+   "w": 22,
+   "h": 6,
+   "bg": "#fef8ec"
+  },
+  "skin": "#c9a27c"
+ },
+ "cat_tq_r": {
+  "w": 530,
+  "h": 661,
+  "eyes": [
+   {
+    "x": 257,
+    "y": 205,
+    "w": 97,
+    "h": 82,
+    "n": 0,
+    "skin": "#dfba94"
+   },
+   {
+    "x": 426,
+    "y": 205,
+    "w": 63,
+    "h": 80,
+    "n": 0,
+    "skin": "#e0b991"
+   }
+  ],
+  "mouth": {
+   "x": 404,
+   "y": 304,
+   "w": 20,
+   "h": 6,
+   "bg": "#fef8ea"
+  },
+  "skin": "#c9a27c"
+ },
+ "cat_pr_r": {
+  "w": 462,
+  "h": 668,
+  "eyes": [
+   {
+    "x": 292,
+    "y": 198,
+    "w": 156,
+    "h": 147,
+    "grown": true,
+    "skin": "#deba95"
+   }
+  ],
+  "mouth": {
+   "x": 415,
+   "y": 383,
+   "w": 24,
+   "h": 10,
+   "bg": "#fef6e3"
+  },
+  "skin": "#eee7dd"
+ },
+ "dog_front": {
+  "w": 740,
+  "h": 826,
+  "eyes": [
+   {
+    "x": 236,
+    "y": 286,
+    "w": 18,
+    "h": 17,
+    "grown": true
+   },
+   {
+    "x": 434,
+    "y": 300,
+    "w": 18,
+    "h": 18,
+    "grown": true
+   }
+  ],
+  "mouth": {
+   "x": 322,
+   "y": 358,
+   "w": 38,
+   "h": 4,
+   "bg": "#fef3df"
+  },
+  "skin": "#fdf3e0"
+ },
+ "dog_tq_r": {
+  "w": 352,
+  "h": 457,
+  "eyes": []
+ },
+ "dog_pr_r": {
+  "w": 382,
+  "h": 457,
+  "eyes": []
+ },
+ "dog_pr_l": {
+  "w": 384,
+  "h": 461,
+  "eyes": []
+ },
+ "dog_tq_l": {
+  "w": 404,
+  "h": 459,
+  "eyes": []
+ },
+ "female2_front": {
+  "w": 509,
+  "h": 842,
+  "eyes": [
+   {
+    "x": 138,
+    "y": 227,
+    "w": 69,
+    "h": 64,
+    "n": 0,
+    "skin": "#fedbb4"
+   },
+   {
+    "x": 295,
+    "y": 218,
+    "w": 71,
+    "h": 65,
+    "n": 0,
+    "skin": "#fedcb6"
+   }
+  ],
+  "skin": "#fedcb6",
+  "mouth": {
+   "x": 261,
+   "y": 311,
+   "w": 40,
+   "h": 6,
+   "line": [
+    242,
+    306,
+    281,
+    317
+   ],
+   "bg": "#fedcb7"
+  }
+ },
+ "female2_front_t": {
+  "w": 311,
+  "h": 504,
+  "eyes": [
+   {
+    "x": 87,
+    "y": 138,
+    "w": 44,
+    "h": 40,
+    "n": 0,
+    "skin": "#fee1bf"
+   },
+   {
+    "x": 183,
+    "y": 135,
+    "w": 44,
+    "h": 42,
+    "n": 0,
+    "skin": "#fee2c1"
+   }
+  ],
+  "skin": "#fee2c1",
+  "mouth": {
+   "x": 157,
+   "y": 191,
+   "w": 24,
+   "h": 6,
+   "line": [
+    146,
+    189,
+    169,
+    194
+   ],
+   "bg": "#fee3c2"
+  }
+ },
+ "female2_tq_r": {
+  "w": 292,
+  "h": 506,
+  "eyes": [
+   {
+    "x": 168,
+    "y": 135,
+    "w": 42,
+    "h": 42,
+    "n": 0,
+    "skin": "#fee3c2"
+   },
+   {
+    "x": 242,
+    "y": 130,
+    "w": 22,
+    "h": 40,
+    "n": 0,
+    "skin": "#fee2c1"
+   }
+  ],
+  "skin": "#fee2c1",
+  "mouth": {
+   "x": 228,
+   "y": 191,
+   "w": 19,
+   "h": 6,
+   "line": [
+    219,
+    189,
+    237,
+    193
+   ],
+   "bg": "#fee3c3"
+  }
+ },
+ "female2_pr_r": {
+  "w": 287,
+  "h": 505,
+  "eyes": [
+   {
+    "x": 205,
+    "y": 132,
+    "w": 35,
+    "h": 43,
+    "n": 0,
+    "skin": "#fee2c2"
+   }
+  ],
+  "skin": "#fee2c1"
+ },
+ "female2_pr_l": {
+  "w": 284,
+  "h": 493,
+  "eyes": [
+   {
+    "x": 48,
+    "y": 123,
+    "w": 35,
+    "h": 45,
+    "n": 0,
+    "skin": "#fee1c0"
+   }
+  ],
+  "skin": "#fee2c1"
+ },
+ "female2_tq_l": {
+  "w": 293,
+  "h": 495,
+  "eyes": [
+   {
+    "x": 37,
+    "y": 127,
+    "w": 23,
+    "h": 39,
+    "n": 0,
+    "skin": "#fee1c0"
+   },
+   {
+    "x": 94,
+    "y": 127,
+    "w": 43,
+    "h": 42,
+    "n": 0,
+    "skin": "#fee2c2"
+   }
+  ],
+  "skin": "#fee2c1",
+  "mouth": {
+   "x": 73,
+   "y": 183,
+   "w": 19,
+   "h": 6,
+   "line": [
+    64,
+    181,
+    82,
+    185
+   ],
+   "bg": "#fee3c4"
+  }
+ },
+ "xiaoman2_front": {
+  "w": 277,
+  "h": 488,
+  "eyes": [
+   {
+    "x": 65,
+    "y": 162,
+    "w": 56,
+    "h": 52,
+    "grown": true,
+    "skin": "#fee8cf"
+   },
+   {
+    "x": 176,
+    "y": 158,
+    "w": 53,
+    "h": 51,
+    "grown": true,
+    "skin": "#fee7ce"
+   }
+  ],
+  "skin": "#fbe9d3",
+  "mouth": {
+   "x": 149,
+   "y": 224,
+   "w": 25,
+   "h": 6,
+   "line": [
+    137,
+    221,
+    161,
+    227
+   ],
+   "bg": "#fee9d1"
+  }
+ },
+ "xiaoman2_tq_r": {
+  "w": 278,
+  "h": 490,
+  "eyes": [
+   {
+    "x": 107,
+    "y": 161,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee8cf"
+   },
+   {
+    "x": 212,
+    "y": 162,
+    "w": 27,
+    "h": 44,
+    "grown": true,
+    "skin": "#fde6cc"
+   }
+  ],
+  "skin": "#feebd5",
+  "mouth": {
+   "x": 189,
+   "y": 222,
+   "w": 21,
+   "h": 6,
+   "line": [
+    179,
+    220,
+    199,
+    225
+   ],
+   "bg": "#fee9d1"
+  }
+ },
+ "xiaoman2_pr_r": {
+  "w": 263,
+  "h": 489,
+  "eyes": [
+   {
+    "x": 179,
+    "y": 157,
+    "w": 44,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee7ce"
+   }
+  ],
+  "skin": "#fdc8a4"
+ },
+ "xiaoman2_pr_l": {
+  "w": 270,
+  "h": 490,
+  "eyes": [
+   {
+    "x": 43,
+    "y": 151,
+    "w": 49,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee7cd"
+   }
+  ],
+  "skin": "#fdd9b9"
+ },
+ "xiaoman2_tq_l": {
+  "w": 280,
+  "h": 486,
+  "eyes": [
+   {
+    "x": 33,
+    "y": 154,
+    "w": 39,
+    "h": 49,
+    "grown": true,
+    "skin": "#fee7cc"
+   },
+   {
+    "x": 119,
+    "y": 159,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#fee7ce"
+   }
+  ],
+  "skin": "#fee9d1",
+  "mouth": {
+   "x": 93,
+   "y": 219,
+   "w": 21,
+   "h": 6,
+   "line": [
+    83,
+    217,
+    103,
+    222
+   ],
+   "bg": "#fee9d1"
+  }
+ },
+ "xiaoman3_front": {
+  "w": 278,
+  "h": 488,
+  "eyes": [
+   {
+    "x": 66,
+    "y": 161,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#fedabb"
+   },
+   {
+    "x": 177,
+    "y": 158,
+    "w": 53,
+    "h": 50,
+    "grown": true,
+    "skin": "#fedabb"
+   }
+  ],
+  "skin": "#fbdabd",
+  "mouth": {
+   "x": 150,
+   "y": 224,
+   "w": 25,
+   "h": 6,
+   "line": [
+    138,
+    221,
+    162,
+    227
+   ],
+   "bg": "#fedbbd"
+  }
+ },
+ "xiaoman3_tq_r": {
+  "w": 279,
+  "h": 491,
+  "eyes": [
+   {
+    "x": 108,
+    "y": 162,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed9ba"
+   },
+   {
+    "x": 213,
+    "y": 160,
+    "w": 27,
+    "h": 47,
+    "grown": true,
+    "skin": "#fed9bb"
+   }
+  ],
+  "skin": "#fedabc",
+  "mouth": {
+   "x": 189,
+   "y": 223,
+   "w": 21,
+   "h": 6,
+   "line": [
+    179,
+    221,
+    199,
+    226
+   ],
+   "bg": "#fedbbc"
+  }
+ },
+ "xiaoman3_pr_r": {
+  "w": 262,
+  "h": 489,
+  "eyes": [
+   {
+    "x": 178,
+    "y": 157,
+    "w": 44,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed9bb"
+   }
+  ],
+  "skin": "#fcaf91"
+ },
+ "xiaoman3_pr_l": {
+  "w": 272,
+  "h": 489,
+  "eyes": [
+   {
+    "x": 45,
+    "y": 151,
+    "w": 48,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed9ba"
+   }
+  ],
+  "skin": "#fdbda3"
+ },
+ "xiaoman3_tq_l": {
+  "w": 280,
+  "h": 488,
+  "eyes": [
+   {
+    "x": 33,
+    "y": 154,
+    "w": 39,
+    "h": 49,
+    "grown": true,
+    "skin": "#fdd8b9"
+   },
+   {
+    "x": 119,
+    "y": 160,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#fed9bb"
+   }
+  ],
+  "skin": "#fedcbf",
+  "mouth": {
+   "x": 93,
+   "y": 219,
+   "w": 20,
+   "h": 6,
+   "line": [
+    84,
+    217,
+    103,
+    222
+   ],
+   "bg": "#fedabc"
+  }
+ },
+ "folk_banker_front": {
+  "w": 454,
+  "h": 984,
+  "eyes": [
+   {
+    "x": 125,
+    "y": 216,
+    "w": 59,
+    "h": 68,
+    "grown": true,
+    "skin": "#fdd6ad"
+   },
+   {
+    "x": 293,
+    "y": 216,
+    "w": 56,
+    "h": 68,
+    "grown": true,
+    "skin": "#fed5ab"
+   }
+  ],
+  "mouth": {
+   "x": 236,
+   "y": 337,
+   "w": 75,
+   "h": 3,
+   "line": [
+    199,
+    330,
+    273,
+    344
+   ],
+   "bg": "#fed6ac"
+  },
+  "skin": "#fdbf95"
+ },
+ "folk_merchant_front": {
+  "w": 556,
+  "h": 975,
+  "eyes": [
+   {
+    "x": 171,
+    "y": 252,
+    "w": 76,
+    "h": 76,
+    "grown": true,
+    "skin": "#fed8a4"
+   },
+   {
+    "x": 327,
+    "y": 252,
+    "w": 74,
+    "h": 76,
+    "grown": true,
+    "skin": "#fed8a3"
+   }
+  ],
+  "mouth": {
+   "x": 287,
+   "y": 360,
+   "w": 56,
+   "h": 5,
+   "line": [
+    260,
+    355,
+    315,
+    365
+   ],
+   "bg": "#fed8a4"
+  },
+  "skin": "#fed6a0"
+ },
+ "folk_farmer_front": {
+  "w": 696,
+  "h": 999,
+  "eyes": [
+   {
+    "x": 216,
+    "y": 251,
+    "w": 84,
+    "h": 87,
+    "grown": true,
+    "skin": "#fecd8b"
+   },
+   {
+    "x": 374,
+    "y": 252,
+    "w": 52,
+    "h": 79,
+    "grown": true,
+    "skin": "#fdcc8b"
+   }
+  ],
+  "skin": "#fecd89"
+ },
+ "folk_tailor_front": {
+  "w": 384,
+  "h": 728,
+  "eyes": [
+   {
+    "x": 83,
+    "y": 241,
+    "w": 83,
+    "h": 76,
+    "grown": true,
+    "skin": "#fdd8aa"
+   },
+   {
+    "x": 252,
+    "y": 228,
+    "w": 80,
+    "h": 73,
+    "grown": true,
+    "skin": "#fed8aa"
+   }
+  ],
+  "skin": "#feddb0"
+ },
+ "folk_tailor_tq_r": {
+  "w": 397,
+  "h": 729,
+  "eyes": [
+   {
+    "x": 137,
+    "y": 236,
+    "w": 83,
+    "h": 75,
+    "grown": true,
+    "skin": "#fed8a9"
+   },
+   {
+    "x": 297,
+    "y": 215,
+    "w": 55,
+    "h": 78,
+    "grown": true,
+    "skin": "#fdd6a6"
+   }
+  ],
+  "skin": "#fedcb1"
+ },
+ "folk_tailor_pr_r": {
+  "w": 388,
+  "h": 721,
+  "eyes": [
+   {
+    "x": 11,
+    "y": 90,
+    "w": 7,
+    "h": 27,
+    "grown": true
+   },
+   {
+    "x": 266,
+    "y": 220,
+    "w": 70,
+    "h": 74,
+    "grown": true,
+    "skin": "#fed8a9"
+   }
+  ],
+  "skin": "#29180f"
+ },
+ "folk_shoemaker_front": {
+  "w": 447,
+  "h": 647,
+  "eyes": [
+   {
+    "x": 95,
+    "y": 202,
+    "w": 93,
+    "h": 76,
+    "grown": true,
+    "skin": "#fed4a1"
+   },
+   {
+    "x": 284,
+    "y": 184,
+    "w": 81,
+    "h": 76,
+    "grown": true,
+    "skin": "#fed4a0"
+   }
+  ],
+  "skin": "#c9b7a7"
+ },
+ "folk_shoemaker_tq_r": {
+  "w": 422,
+  "h": 648,
+  "eyes": [
+   {
+    "x": 119,
+    "y": 203,
+    "w": 92,
+    "h": 75,
+    "grown": true,
+    "skin": "#fed5a3"
+   },
+   {
+    "x": 299,
+    "y": 179,
+    "w": 71,
+    "h": 73,
+    "grown": true,
+    "skin": "#fed4a1"
+   }
+  ],
+  "skin": "#d5c8bc"
+ },
+ "folk_shoemaker_pr_r": {
+  "w": 451,
+  "h": 639,
+  "eyes": []
+ },
+ "folk_smith_front": {
+  "w": 414,
+  "h": 657,
+  "eyes": [
+   {
+    "x": 94,
+    "y": 221,
+    "w": 93,
+    "h": 80,
+    "grown": true,
+    "skin": "#fece99"
+   },
+   {
+    "x": 267,
+    "y": 207,
+    "w": 84,
+    "h": 82,
+    "grown": true,
+    "skin": "#fecd96"
+   }
+  ],
+  "skin": "#fed7a8"
+ },
+ "folk_smith_tq_r": {
+  "w": 417,
+  "h": 659,
+  "eyes": [
+   {
+    "x": 152,
+    "y": 219,
+    "w": 93,
+    "h": 81,
+    "grown": true,
+    "skin": "#fed09c"
+   },
+   {
+    "x": 318,
+    "y": 209,
+    "w": 58,
+    "h": 76,
+    "grown": true,
+    "skin": "#fecd97"
+   }
+  ],
+  "skin": "#fed3a2"
+ },
+ "folk_smith_pr_r": {
+  "w": 377,
+  "h": 658,
+  "eyes": []
+ },
+ "folk_butcher_front": {
+  "w": 420,
+  "h": 639,
+  "eyes": [
+   {
+    "x": 73,
+    "y": 186,
+    "w": 76,
+    "h": 68,
+    "grown": true,
+    "skin": "#fee4c0"
+   },
+   {
+    "x": 232,
+    "y": 190,
+    "w": 90,
+    "h": 68,
+    "grown": true,
+    "skin": "#fee4c0"
+   }
+  ],
+  "skin": "#fde5c3"
+ },
+ "folk_butcher_tq_r": {
+  "w": 408,
+  "h": 639,
+  "eyes": [
+   {
+    "x": 51,
+    "y": 180,
+    "w": 57,
+    "h": 66,
+    "grown": true,
+    "skin": "#fee3bd"
+   },
+   {
+    "x": 181,
+    "y": 197,
+    "w": 90,
+    "h": 68,
+    "grown": true,
+    "skin": "#fee3be"
+   }
+  ],
+  "skin": "#fee5c2"
+ },
+ "folk_butcher_pr_r": {
+  "w": 376,
+  "h": 639,
+  "eyes": [
+   {
+    "x": 53,
+    "y": 279,
+    "w": 34,
+    "h": 40,
+    "grown": true,
+    "skin": "#fbf0da"
+   },
+   {
+    "x": 269,
+    "y": 179,
+    "w": 59,
+    "h": 69,
+    "grown": true,
+    "skin": "#fee2bc"
+   }
+  ],
+  "skin": "#f5d7cf"
+ },
+ "folk_goldsmith_front": {
+  "w": 443,
+  "h": 623,
+  "eyes": [
+   {
+    "x": 108,
+    "y": 207,
+    "w": 49,
+    "h": 55,
+    "grown": true,
+    "skin": "#fde0ba"
+   },
+   {
+    "x": 235,
+    "y": 212,
+    "w": 79,
+    "h": 70,
+    "grown": true,
+    "skin": "#fddeb7"
+   }
+  ],
+  "skin": "#fde1bc"
+ },
+ "folk_goldsmith_tq_r": {
+  "w": 432,
+  "h": 623,
+  "eyes": [
+   {
+    "x": 92,
+    "y": 200,
+    "w": 38,
+    "h": 57,
+    "grown": true,
+    "skin": "#fddcb4"
+   },
+   {
+    "x": 199,
+    "y": 210,
+    "w": 84,
+    "h": 70,
+    "grown": true,
+    "skin": "#fddab2"
+   }
+  ],
+  "mouth": {
+   "x": 199,
+   "y": 348,
+   "w": 43,
+   "h": 12,
+   "bg": "#fde5d6"
+  },
+  "skin": "#fee1bd"
+ },
+ "folk_goldsmith_pr_r": {
+  "w": 397,
+  "h": 619,
+  "eyes": [
+   {
+    "x": 5,
+    "y": 210,
+    "w": 19,
+    "h": 82,
+    "grown": true,
+    "skin": "#d8c8ba"
+   },
+   {
+    "x": 353,
+    "y": 263,
+    "w": 19,
+    "h": 20,
+    "grown": true,
+    "skin": "#fadcaf"
+   }
+  ],
+  "skin": "#d5c4b4"
+ },
+ "folk_fisher_front": {
+  "w": 463,
+  "h": 639,
+  "eyes": [
+   {
+    "x": 112,
+    "y": 196,
+    "w": 77,
+    "h": 59,
+    "grown": true,
+    "skin": "#fdd6a9"
+   },
+   {
+    "x": 271,
+    "y": 197,
+    "w": 79,
+    "h": 61,
+    "grown": true,
+    "skin": "#fdd6a8"
+   }
+  ],
+  "mouth": {
+   "x": 228,
+   "y": 281,
+   "w": 19,
+   "h": 3,
+   "bg": "#fedeb4"
+  },
+  "skin": "#fedcb0"
+ },
+ "folk_fisher_tq_r": {
+  "w": 439,
+  "h": 640,
+  "eyes": [
+   {
+    "x": 168,
+    "y": 197,
+    "w": 81,
+    "h": 64,
+    "grown": true,
+    "skin": "#fed7a8"
+   },
+   {
+    "x": 323,
+    "y": 191,
+    "w": 51,
+    "h": 59,
+    "grown": true,
+    "skin": "#fed8ac"
+   }
+  ],
+  "skin": "#feddb4"
+ },
+ "folk_fisher_pr_r": {
+  "w": 380,
+  "h": 644,
+  "eyes": [
+   {
+    "x": 243,
+    "y": 191,
+    "w": 57,
+    "h": 66,
+    "grown": true,
+    "skin": "#fdd6a8"
+   }
+  ],
+  "skin": "#fbb186"
+ },
+ "folk_miner_front": {
+  "w": 417,
+  "h": 675,
+  "eyes": [
+   {
+    "x": 135,
+    "y": 224,
+    "w": 78,
+    "h": 81,
+    "grown": true,
+    "skin": "#fed3a2"
+   },
+   {
+    "x": 300,
+    "y": 191,
+    "w": 71,
+    "h": 76,
+    "grown": true,
+    "skin": "#fdd4a4"
+   }
+  ],
+  "skin": "#fed5a5"
+ },
+ "folk_miner_tq_r": {
+  "w": 417,
+  "h": 679,
+  "eyes": [
+   {
+    "x": 159,
+    "y": 225,
+    "w": 81,
+    "h": 80,
+    "grown": true,
+    "skin": "#fed4a6"
+   },
+   {
+    "x": 321,
+    "y": 188,
+    "w": 63,
+    "h": 77,
+    "grown": true,
+    "skin": "#fed6a7"
+   }
+  ],
+  "skin": "#fed8ab"
+ },
+ "folk_miner_pr_r": {
+  "w": 367,
+  "h": 681,
+  "eyes": [
+   {
+    "x": 242,
+    "y": 199,
+    "w": 65,
+    "h": 84,
+    "grown": true,
+    "skin": "#fed4a6"
+   }
+  ],
+  "skin": "#fba87a"
+ },
+ "folk_clerk_front": {
+  "w": 418,
+  "h": 671,
+  "eyes": [
+   {
+    "x": 75,
+    "y": 191,
+    "w": 64,
+    "h": 66,
+    "grown": true,
+    "skin": "#fedcb7"
+   },
+   {
+    "x": 233,
+    "y": 187,
+    "w": 91,
+    "h": 74,
+    "grown": true,
+    "skin": "#fddcb6"
+   }
+  ],
+  "skin": "#fcdfbe"
+ },
+ "folk_clerk_tq_r": {
+  "w": 424,
+  "h": 674,
+  "eyes": [
+   {
+    "x": 143,
+    "y": 191,
+    "w": 67,
+    "h": 68,
+    "grown": true,
+    "skin": "#fddcb7"
+   },
+   {
+    "x": 296,
+    "y": 190,
+    "w": 60,
+    "h": 65,
+    "grown": true,
+    "skin": "#fdddb9"
+   }
+  ],
+  "mouth": {
+   "x": 241,
+   "y": 359,
+   "w": 20,
+   "h": 3,
+   "bg": "#fbf3de"
+  },
+  "skin": "#fee1bf"
+ },
+ "folk_clerk_pr_r": {
+  "w": 380,
+  "h": 673,
+  "eyes": [
+   {
+    "x": 261,
+    "y": 187,
+    "w": 47,
+    "h": 69,
+    "grown": true,
+    "skin": "#fddbb7"
+   },
+   {
+    "x": 356,
+    "y": 118,
+    "w": 9,
+    "h": 35,
+    "grown": true,
+    "skin": "#d5a183"
+   }
+  ],
+  "skin": "#fddab9"
+ },
+ "folk_mason_front": {
+  "w": 431,
+  "h": 678,
+  "eyes": [
+   {
+    "x": 74,
+    "y": 196,
+    "w": 77,
+    "h": 63,
+    "grown": true,
+    "skin": "#fed9af"
+   },
+   {
+    "x": 231,
+    "y": 203,
+    "w": 85,
+    "h": 63,
+    "grown": true,
+    "skin": "#fed8ad"
+   }
+  ],
+  "skin": "#f5d0aa"
+ },
+ "folk_mason_tq_r": {
+  "w": 414,
+  "h": 681,
+  "eyes": [
+   {
+    "x": 173,
+    "y": 209,
+    "w": 81,
+    "h": 63,
+    "grown": true,
+    "skin": "#fed6ab"
+   },
+   {
+    "x": 320,
+    "y": 187,
+    "w": 40,
+    "h": 60,
+    "grown": true,
+    "skin": "#fed7ab"
+   }
+  ],
+  "skin": "#fedab0"
+ },
+ "folk_mason_pr_r": {
+  "w": 397,
+  "h": 680,
+  "eyes": [
+   {
+    "x": 268,
+    "y": 188,
+    "w": 62,
+    "h": 71,
+    "grown": true,
+    "skin": "#fed6a9"
+   }
+  ],
+  "skin": "#fdbc8f"
+ },
+ "folk_coalheaver_front": {
+  "w": 415,
+  "h": 593,
+  "eyes": [
+   {
+    "x": 127,
+    "y": 164,
+    "w": 74,
+    "h": 91,
+    "grown": true,
+    "skin": "#fdc589"
+   },
+   {
+    "x": 277,
+    "y": 170,
+    "w": 74,
+    "h": 93,
+    "grown": true,
+    "skin": "#fdc58a"
+   }
+  ],
+  "mouth": {
+   "x": 208,
+   "y": 268,
+   "w": 41,
+   "h": 7,
+   "bg": "#fcce9c"
+  },
+  "skin": "#3d2b1f"
+ },
+ "folk_coalheaver_tq_r": {
+  "w": 427,
+  "h": 596,
+  "eyes": [
+   {
+    "x": 190,
+    "y": 167,
+    "w": 75,
+    "h": 92,
+    "grown": true,
+    "skin": "#fdc78c"
+   },
+   {
+    "x": 336,
+    "y": 176,
+    "w": 44,
+    "h": 59,
+    "grown": true,
+    "skin": "#fdc78b"
+   }
+  ],
+  "mouth": {
+   "x": 272,
+   "y": 270,
+   "w": 48,
+   "h": 7,
+   "bg": "#fed29a"
+  },
+  "skin": "#402a1d"
+ },
+ "folk_coalheaver_pr_r": {
+  "w": 413,
+  "h": 590,
+  "eyes": [
+   {
+    "x": 293,
+    "y": 159,
+    "w": 63,
+    "h": 91,
+    "grown": true,
+    "skin": "#fdc78d"
+   }
+  ],
+  "mouth": {
+   "x": 376,
+   "y": 257,
+   "w": 10,
+   "h": 4
+  },
+  "skin": "#fba070"
+ },
+ "folk_doctor_front": {
+  "w": 425,
+  "h": 701,
+  "eyes": [
+   {
+    "x": 120,
+    "y": 216,
+    "w": 50,
+    "h": 58,
+    "grown": true,
+    "skin": "#fddfb5"
+   },
+   {
+    "x": 277,
+    "y": 213,
+    "w": 51,
+    "h": 60,
+    "grown": true,
+    "skin": "#fcd7aa"
+   }
+  ],
+  "skin": "#fee1b8"
+ },
+ "folk_doctor_tq_r": {
+  "w": 426,
+  "h": 704,
+  "eyes": [
+   {
+    "x": 190,
+    "y": 211,
+    "w": 56,
+    "h": 65,
+    "grown": true,
+    "skin": "#fdd7a9"
+   },
+   {
+    "x": 334,
+    "y": 206,
+    "w": 39,
+    "h": 59,
+    "grown": true,
+    "skin": "#fddeb1"
+   }
+  ],
+  "skin": "#fee2ba"
+ },
+ "folk_doctor_pr_r": {
+  "w": 385,
+  "h": 697,
+  "eyes": [
+   {
+    "x": 23,
+    "y": 112,
+    "w": 11,
+    "h": 40,
+    "grown": true
+   },
+   {
+    "x": 281,
+    "y": 194,
+    "w": 44,
+    "h": 69,
+    "grown": true,
+    "skin": "#fdd7aa"
+   }
+  ],
+  "skin": "#fccc96"
+ },
+ "folk_lawyer_front": {
+  "w": 401,
+  "h": 663,
+  "eyes": [
+   {
+    "x": 111,
+    "y": 182,
+    "w": 78,
+    "h": 64,
+    "grown": true,
+    "skin": "#fdd5ab"
+   },
+   {
+    "x": 263,
+    "y": 166,
+    "w": 63,
+    "h": 63,
+    "grown": true,
+    "skin": "#fdd4aa"
+   }
+  ],
+  "mouth": {
+   "x": 217,
+   "y": 314,
+   "w": 17,
+   "h": 2,
+   "bg": "#f9f2e5"
+  },
+  "skin": "#fdd8b0"
+ },
+ "folk_lawyer_tq_r": {
+  "w": 373,
+  "h": 663,
+  "eyes": [
+   {
+    "x": 133,
+    "y": 180,
+    "w": 76,
+    "h": 64,
+    "grown": true,
+    "skin": "#fdd5ab"
+   },
+   {
+    "x": 273,
+    "y": 165,
+    "w": 51,
+    "h": 61,
+    "grown": true,
+    "skin": "#fdd5ac"
+   }
+  ],
+  "skin": "#fdd5aa"
+ },
+ "folk_lawyer_pr_r": {
+  "w": 315,
+  "h": 661,
+  "eyes": [
+   {
+    "x": 152,
+    "y": 291,
+    "w": 46,
+    "h": 34,
+    "grown": true,
+    "skin": "#fdd4a9"
+   },
+   {
+    "x": 204,
+    "y": 156,
+    "w": 58,
+    "h": 73,
+    "grown": true,
+    "skin": "#fed4aa"
+   }
+  ],
+  "mouth": {
+   "x": 222,
+   "y": 365,
+   "w": 11,
+   "h": 3,
+   "bg": "#fdfcf6"
+  },
+  "skin": "#d8ba8d"
+ },
+ "folk_apothecary_front": {
+  "w": 416,
+  "h": 656,
+  "eyes": [
+   {
+    "x": 98,
+    "y": 154,
+    "w": 91,
+    "h": 81,
+    "grown": true,
+    "skin": "#fdd6ab"
+   },
+   {
+    "x": 276,
+    "y": 141,
+    "w": 78,
+    "h": 80,
+    "grown": true,
+    "skin": "#fdd3a7"
+   }
+  ],
+  "skin": "#fdd7ae"
+ },
+ "folk_apothecary_tq_r": {
+  "w": 396,
+  "h": 660,
+  "eyes": [
+   {
+    "x": 147,
+    "y": 150,
+    "w": 91,
+    "h": 85,
+    "grown": true,
+    "skin": "#fdd5aa"
+   },
+   {
+    "x": 310,
+    "y": 137,
+    "w": 46,
+    "h": 69,
+    "grown": true,
+    "skin": "#fdd2a7"
+   }
+  ],
+  "skin": "#e0ccae"
+ },
+ "folk_apothecary_pr_r": {
+  "w": 371,
+  "h": 659,
+  "eyes": [
+   {
+    "x": 174,
+    "y": 282,
+    "w": 58,
+    "h": 24,
+    "grown": true,
+    "skin": "#fdd4aa"
+   },
+   {
+    "x": 217,
+    "y": 300,
+    "w": 34,
+    "h": 23,
+    "grown": true,
+    "skin": "#f7e6ca"
+   }
+  ],
+  "skin": "#7a424e"
+ },
+ "folk_actor_front": {
+  "w": 449,
+  "h": 662,
+  "eyes": [
+   {
+    "x": 81,
+    "y": 242,
+    "w": 71,
+    "h": 53,
+    "grown": true,
+    "skin": "#fedebb"
+   },
+   {
+    "x": 228,
+    "y": 243,
+    "w": 78,
+    "h": 54,
+    "grown": true,
+    "skin": "#fedfbb"
+   }
+  ],
+  "mouth": {
+   "x": 188,
+   "y": 319,
+   "w": 22,
+   "h": 2,
+   "bg": "#fee2c1"
+  },
+  "skin": "#fee1bf"
+ },
+ "folk_actor_tq_r": {
+  "w": 446,
+  "h": 677,
+  "eyes": [
+   {
+    "x": 134,
+    "y": 252,
+    "w": 76,
+    "h": 56,
+    "grown": true,
+    "skin": "#fedfbc"
+   },
+   {
+    "x": 282,
+    "y": 243,
+    "w": 57,
+    "h": 55,
+    "grown": true,
+    "skin": "#fedeba"
+   }
+  ],
+  "skin": "#fee2c1"
+ },
+ "folk_actor_pr_r": {
+  "w": 391,
+  "h": 624,
+  "eyes": [
+   {
+    "x": 97,
+    "y": 53,
+    "w": 54,
+    "h": 38,
+    "grown": true,
+    "skin": "#fde2e0"
+   },
+   {
+    "x": 265,
+    "y": 197,
+    "w": 53,
+    "h": 57,
+    "grown": true,
+    "skin": "#fedfbc"
+   }
+  ],
+  "skin": "#fedfbb"
+ },
+ "xiaoman2p_front": {
+  "w": 277,
+  "h": 488,
+  "eyes": [
+   {
+    "x": 65,
+    "y": 162,
+    "w": 56,
+    "h": 52,
+    "grown": true,
+    "skin": "#ffddc6"
+   },
+   {
+    "x": 176,
+    "y": 158,
+    "w": 53,
+    "h": 51,
+    "grown": true,
+    "skin": "#ffdcc5"
+   }
+  ],
+  "skin": "#fddeca",
+  "mouth": {
+   "x": 149,
+   "y": 224,
+   "w": 25,
+   "h": 6,
+   "line": [
+    137,
+    221,
+    161,
+    227
+   ],
+   "bg": "#ffdec8"
+  }
+ },
+ "xiaoman2p_tq_r": {
+  "w": 278,
+  "h": 490,
+  "eyes": [
+   {
+    "x": 107,
+    "y": 161,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#ffddc6"
+   },
+   {
+    "x": 212,
+    "y": 162,
+    "w": 27,
+    "h": 44,
+    "grown": true,
+    "skin": "#ffdbc3"
+   }
+  ],
+  "skin": "#ffe0cc",
+  "mouth": {
+   "x": 189,
+   "y": 222,
+   "w": 21,
+   "h": 6,
+   "line": [
+    179,
+    220,
+    199,
+    225
+   ],
+   "bg": "#ffdec8"
+  }
+ },
+ "xiaoman2p_pr_r": {
+  "w": 263,
+  "h": 489,
+  "eyes": [
+   {
+    "x": 179,
+    "y": 157,
+    "w": 44,
+    "h": 53,
+    "grown": true,
+    "skin": "#ffdcc5"
+   }
+  ],
+  "skin": "#ffbf9d"
+ },
+ "xiaoman2p_pr_l": {
+  "w": 270,
+  "h": 490,
+  "eyes": [
+   {
+    "x": 43,
+    "y": 151,
+    "w": 49,
+    "h": 53,
+    "grown": true,
+    "skin": "#ffdcc4"
+   }
+  ],
+  "skin": "#ffcfb1"
+ },
+ "xiaoman2p_tq_l": {
+  "w": 280,
+  "h": 486,
+  "eyes": [
+   {
+    "x": 33,
+    "y": 154,
+    "w": 39,
+    "h": 49,
+    "grown": true,
+    "skin": "#ffdcc3"
+   },
+   {
+    "x": 119,
+    "y": 159,
+    "w": 56,
+    "h": 53,
+    "grown": true,
+    "skin": "#ffdcc5"
+   }
+  ],
+  "skin": "#ffdec8",
+  "mouth": {
+   "x": 93,
+   "y": 219,
+   "w": 21,
+   "h": 6,
+   "line": [
+    83,
+    217,
+    103,
+    222
+   ],
+   "bg": "#ffdec8"
+  }
+ },
+ "folk_king_front": {
+  "w": 521,
+  "h": 967,
+  "eyes": [
+   {
+    "x": 114,
+    "y": 266,
+    "w": 100,
+    "h": 82,
+    "skin": "#fdba94"
+   },
+   {
+    "x": 299,
+    "y": 270,
+    "w": 103,
+    "h": 78,
+    "skin": "#fdc69f"
+   }
+  ],
+  "skin": "#fdba94"
+ }
+}
