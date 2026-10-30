@@ -2,13 +2,10 @@
 .env
 *.env
 
-# 成片、音频、素材
+# 成片视频不进仓库（人物图、参考截图、音效、字体要带上，最小工程靠它们画出一样的画面）
 *.mp4
-*.wav
-*.mp3
-*.png
-*.jpg
 
-# Python
+# Node / Python
+node_modules/
 __pycache__/
 *.pyc
